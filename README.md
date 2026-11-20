@@ -7,15 +7,15 @@ Passionate about building scalable web applications, AI-powered solutions, and m
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chethan-p-a5a6253b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/chinmayi-d-a-417651332/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:cp187.2006@gmail.com">
+  <a href="mailto:chinmayidachinmayida@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/ChethanKumar485">
+  <a href="https://github.com/chinmayidachinmayida-cmyk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -43,7 +43,7 @@ Passionate about building scalable web applications, AI-powered solutions, and m
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChethanKumar485&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayidachinmayida-cmyk&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
