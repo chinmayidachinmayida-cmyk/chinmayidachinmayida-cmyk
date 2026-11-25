@@ -54,6 +54,7 @@ Passionate about building scalable web applications, AI-powered solutions, and m
 |------------|-------------|
 | 
 | 🔍 **DeepScan** | Intelligent document scanning & analysis |
+
 |🔬 **LabSense AI** | AI-powered laboratory management & intelligent analysis platform |
 
 
