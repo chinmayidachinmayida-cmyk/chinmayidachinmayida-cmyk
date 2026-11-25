@@ -52,12 +52,23 @@ Passionate about building scalable web applications, AI-powered solutions, and m
 
 | 🚀 Project | Description |
 |------------|-------------|
-| 🚗 **Vehicle Passport** | AI-powered vehicle health management platform |
-| 📚 **StudySpark** | Smart study planner with focus tracking & flashcards |
-| 🛰️ **Rocket Nova AI** | Satellite health monitoring & collision prevention |
+| 
 | 🔍 **DeepScan** | Intelligent document scanning & analysis |
-| 🥤 **SafeSip** | Smart beverage safety solution |
-| 💳 **CartPay** | Modern digital payment platform |
+|🔬 **LabSense AI** | AI-powered laboratory management & intelligent analysis platform |
+
+
+
+
+
+
+
+
+
+
+
+
+Is this conversation helpful so far?
+
 
 ---
 
